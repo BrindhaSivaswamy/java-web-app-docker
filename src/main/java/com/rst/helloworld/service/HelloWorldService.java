@@ -23,9 +23,9 @@ public class HelloWorldService {
 		logger.debug("getTitle() is executed! $name : {}", name);
 
 		if(StringUtils.isEmpty(name)){
-			return "Hello World";
+			return "Jenkins Docker Pipeline Example";
 		}else{
-			return "Hello " + "World";
+			return "Jenkins Docker Pipeline Example";
 		}
 		
 	}
