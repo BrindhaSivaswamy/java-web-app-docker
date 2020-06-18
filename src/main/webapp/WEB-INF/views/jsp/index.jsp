@@ -27,9 +27,11 @@
 				Hello ${msg}
 			</c:if>
 
+			
 			<c:if test="${empty msg}">
 				Welcome!
 			</c:if>
+		</p>
 	</div>
 </div>
 
@@ -37,15 +39,17 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2></h2>
-			<h3></h3>
+			<h2>         </h2>
+			<h3>         </h3>
 		</div>	
 	</div>
 
 
 	<hr>
+	<hr>
+	<hr>
 	<footer>
-		<p>&copy; Brindha</p>
+		<p>Brindha S</p>
 	</footer>
 </div>
 
