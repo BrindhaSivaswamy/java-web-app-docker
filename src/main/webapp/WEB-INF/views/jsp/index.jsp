@@ -21,6 +21,8 @@
 
 <div class="jumbotron">
 	<div class="container">
+		<br>
+		<br>
 		<h1>CI/CD Pipeline POC</h1>
 		<br>
 		<br>
@@ -31,7 +33,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Deployed through Jenkins/Docker Pipeline</h2>
+			<h2>Web Application deployed through Jenkins/Docker Pipeline</h2>
+			<br>
 			<br>
 			<br>
 			<br>
@@ -40,7 +43,7 @@
 			<br>
 		</div>	
 	</div>
-
+	
 
 	<hr>
 	<footer>
