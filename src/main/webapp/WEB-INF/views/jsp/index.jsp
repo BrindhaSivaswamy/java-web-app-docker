@@ -24,7 +24,7 @@
 		<br>
 		<br>
 		<br>
-		<h1>CI/CD PIPELINE POC</h1>
+		<h1>CI/CD Pipeline POC</h1>
 		<br>
 		<br>
 	</div>
@@ -34,8 +34,8 @@
 
 	<div class="row">
 		<div class="col-md-10">
-			<h2>Web App deployed through Jenkins/Docker Pipeline</h2>
 			<br>
+			<h2>Web Application deployed through Jenkins/Docker Pipeline</h2>			
 			<br>
 			<br>
 			<br>
@@ -45,7 +45,7 @@
 
 	<hr>
 	<footer>
-		<p>Brindha S</p>
+		<p>By Brindha S</p>
 	</footer>
 </div>
 
