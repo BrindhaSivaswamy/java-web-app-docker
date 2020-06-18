@@ -23,13 +23,7 @@
 	<div class="container">
 		<h1>CI/CD Pipeline POC</h1>
 		<br>
-		<p>
-			<c:if test="${not empty msg}">
-				Hello ${msg}
-			</c:if>
-			<br>
-			<c:if test="${empty msg}"></c:if>
-			<br>
+		<br>
 	</div>
 </div>
 
@@ -37,7 +31,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Jenkins Docker Pipeline Example</h2>
+			<h2>Deployed through Jenkins/Docker Pipeline</h2>
 			<br>
 			<br>
 			<br>
