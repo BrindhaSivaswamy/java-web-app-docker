@@ -14,23 +14,25 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#"></a>
+			<a class="navbar-brand" href="#">CI/CD</a>
 		</div>
 	</div>
 </nav>
 
 <div class="jumbotron">
 	<div class="container">
-		<h1>${title}</h1>
+		<h1>CI/CD Pipeline POC</h1>
+		<br>
 		<p>
 			<c:if test="${not empty msg}">
 				Hello ${msg}
 			</c:if>
-
-			
+			<br>
 			<c:if test="${empty msg}">
-				
+				Welcome!
 			</c:if>
+		<p>
+			<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
 		</p>
 	</div>
 </div>
@@ -41,20 +43,14 @@
 		<div class="col-md-8">
 			<h2>Jenkins Docker Pipeline Example</h2>
 			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<h3>Test</h3>
+			<h3>Contact TCOE</h3>
 		</div>	
 	</div>
 
 
 	<hr>
-	<hr>
-	<hr>
 	<footer>
-		<p>TCOE</p>
+		<p>&copy;</p>
 	</footer>
 </div>
 
