@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">CI/CD POC</a>
+			<a class="navbar-brand" href="#"></a>
 		</div>
 	</div>
 </nav>
@@ -29,7 +29,7 @@
 
 			
 			<c:if test="${empty msg}">
-				Welcome!
+				
 			</c:if>
 		</p>
 	</div>
@@ -39,8 +39,13 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>         </h2>
-			<h3>         </h3>
+			<h2>Jenkins Docker Pipeline Example</h2>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<h3>Test</h3>
 		</div>	
 	</div>
 
@@ -49,7 +54,7 @@
 	<hr>
 	<hr>
 	<footer>
-		<p>Brindha S</p>
+		<p>TCOE</p>
 	</footer>
 </div>
 
