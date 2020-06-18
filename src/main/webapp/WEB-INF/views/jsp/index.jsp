@@ -26,12 +26,10 @@
 		<br>
 		<h1>CI/CD Pipeline POC</h1>
 		<br>
-		<br>
 	</div>
 </div>
 
 <div class="container">
-
 	<div class="row">
 		<div class="col-md-10">
 			<br>
@@ -45,7 +43,7 @@
 
 	<hr>
 	<footer>
-		<p>By Brindha S</p>
+		<p style="color: blue;>Brindha S</p>
 	</footer>
 </div>
 
