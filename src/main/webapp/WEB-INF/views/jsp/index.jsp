@@ -23,7 +23,6 @@
 	<div class="container">
 		<br>
 		<br>
-		<br>
 		<h1>CI/CD Pipeline POC</h1>
 		<br>
 	</div>
@@ -31,9 +30,9 @@
 
 <div class="container">
 	<div class="row">
-		<div class="col-md-10">
-			<br>
+		<div class="col-md-10">			
 			<h2>Web Application deployed through Jenkins/Docker Pipeline</h2>			
+			<br>
 			<br>
 			<br>
 			<br>
@@ -43,7 +42,7 @@
 
 	<hr>
 	<footer>
-		<p style="color: blue;>Brindha S</p>
+		<p>Brindha S</p>
 	</footer>
 </div>
 
